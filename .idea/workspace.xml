@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ac2d09c-6f66-4931-b501-c1d17ee39699" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TradingPlatformes" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZtZXPmkqiONFGyFyY9YVjntALo" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="D:/tradingProject/PortfolioOptimisation" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\TradingPlatformes" />
+      <recent name="C:\TradingPlatformes\newBotAnalystForTrading" />
+      <recent name="C:\TradingPlatformes\flask\templates" />
+      <recent name="C:\TradingPlatformes\RNNForecasting" />
+      <recent name="C:\TradingPlatformes\BacktraderMQL5" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\TradingPlatformes\server" />
+      <recent name="C:\TradingPlatformes" />
+      <recent name="C:\TradingPlatformes\newBotAnalystForTrading\data" />
+      <recent name="C:\TradingPlatformes\data" />
+      <recent name="C:\TradingPlatformes\flask\templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.example">
+    <configuration name="dataGetter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TradingPlatformes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/newBotAnalystForTrading" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/newBotAnalystForTrading/dataGetter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TradingPlatformes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="teest (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TradingPlatformes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\TradingPlatformes\teest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="teest (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TradingPlatformes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="teest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TradingPlatformes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\TradingPlatformes\teest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.example" />
+        <item itemvalue="Python.dataGetter" />
+        <item itemvalue="Python.teest (2)" />
+        <item itemvalue="Python.teest (1)" />
+        <item itemvalue="Python.teest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ac2d09c-6f66-4931-b501-c1d17ee39699" name="Default Changelist" comment="" />
+      <created>1585660390040</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585660390040</updated>
+      <workItem from="1585660391222" duration="94109000" />
+      <workItem from="1586346312099" duration="11086000" />
+      <workItem from="1586427062138" duration="7971000" />
+      <workItem from="1586473670480" duration="544000" />
+      <workItem from="1586506380480" duration="10809000" />
+      <workItem from="1586765112567" duration="10859000" />
+      <workItem from="1586779108558" duration="27052000" />
+      <workItem from="1587202698074" duration="7965000" />
+      <workItem from="1588064042341" duration="17329000" />
+      <workItem from="1588182667228" duration="39316000" />
+      <workItem from="1588491063673" duration="1519000" />
+      <workItem from="1588576417430" duration="116555000" />
+      <workItem from="1589449183406" duration="10562000" />
+      <workItem from="1589532396861" duration="1324000" />
+      <workItem from="1589540808085" duration="5906000" />
+      <workItem from="1589549072781" duration="606000" />
+      <workItem from="1589557255248" duration="1836000" />
+      <workItem from="1589576290609" duration="4795000" />
+      <workItem from="1589620201291" duration="3068000" />
+      <workItem from="1589625710074" duration="51517000" />
+      <workItem from="1589955794959" duration="13484000" />
+      <workItem from="1589978666562" duration="15541000" />
+      <workItem from="1590137284711" duration="479000" />
+      <workItem from="1590138048109" duration="12599000" />
+      <workItem from="1590354140083" duration="4058000" />
+      <workItem from="1590477095134" duration="8756000" />
+      <workItem from="1590562529764" duration="3933000" />
+      <workItem from="1592730126792" duration="7031000" />
+      <workItem from="1592767409053" duration="12823000" />
+      <workItem from="1592903706393" duration="9227000" />
+      <workItem from="1593006253880" duration="31438000" />
+      <workItem from="1593351195728" duration="242000" />
+      <workItem from="1593507740068" duration="4247000" />
+      <workItem from="1598016385754" duration="804000" />
+      <workItem from="1598350367014" duration="766000" />
+      <workItem from="1598961875132" duration="279000" />
+      <workItem from="1599906168071" duration="842000" />
+      <workItem from="1600264806887" duration="28000" />
+      <workItem from="1600329316496" duration="93000" />
+      <workItem from="1601033819337" duration="59000" />
+      <workItem from="1601190367919" duration="840000" />
+      <workItem from="1602315583551" duration="1354000" />
+      <workItem from="1602402941576" duration="7908000" />
+      <workItem from="1602923236824" duration="3772000" />
+      <workItem from="1603105573405" duration="5366000" />
+      <workItem from="1603214814562" duration="4098000" />
+      <workItem from="1603561183393" duration="4998000" />
+      <workItem from="1608879230572" duration="334000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TradingPlatformes$example.coverage" NAME="example Coverage Results" MODIFIED="1603561332251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TradingPlatformes$lstm_prediction_PureLSTM.coverage" NAME="lstm-prediction_PureLSTM Coverage Results" MODIFIED="1586437260133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Program Files" />
+    <SUITE FILE_PATH="coverage/TradingPlatformes$vaue_at_risk.coverage" NAME="vaue_at_risk Coverage Results" MODIFIED="1590132551315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/portfolioOptimiser" />
+    <SUITE FILE_PATH="coverage/TradingPlatformes$analyst.coverage" NAME="analyst Coverage Results" MODIFIED="1586353029549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BacktraderMQL5/backtradermql5" />
+    <SUITE FILE_PATH="coverage/TradingPlatformes$test__4_.coverage" NAME="test (4) Coverage Results" MODIFIED="1586161886445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BacktraderMQL5/backtradermql5" />
+    <SUITE FILE_PATH="coverage/TradingPlatformes$DWX_ZeroMQ_Connector_v2_0_1_RC.coverage" NAME="DWX_ZeroMQ_Connector_v2_0_1_RC Coverage Results" MODIFIED="1586353233964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BacktraderMQL5" />
+    <SUITE FILE_PATH="coverage/TradingPlatformes$testerofstrategy.coverage" NAME="testerofstrategy Coverage Results" MODIFIED="1586536924539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TradingPlatformes$analyse.coverage" NAME="analyse Coverage Results" MODIFIED="1590562708102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/marcketAnalyst" />
+    <SUITE FILE_PATH="coverage/TradingPlatformes$Backtest.coverage" NAME="Backtest Coverage Results" MODIFIED="1586506618429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/strategyTesteur" />
+    <SUITE FILE_PATH="coverage/TradingPlatformes$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1586106722359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BacktraderMQL5ApiMaster/backtradermql5" />
+    <SUITE FILE_PATH="coverage/TradingPlatformes$mt5broker.coverage" NAME="mt5broker Coverage Results" MODIFIED="1586106781998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BacktraderMQL5ApiMaster/backtradermql5" />
+    <SUITE FILE_PATH="coverage/TradingPlatformes$teest__1_.coverage" NAME="teest (1) Coverage Results" MODIFIED="1593508154619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/TradingPlatformes$test.coverage" NAME="test Coverage Results" MODIFIED="1589580630884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TradingPlatformes$ZeroMQ_MT4_Python_Template.coverage" NAME="ZeroMQ_MT4_Python_Template Coverage Results" MODIFIED="1586342478459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BacktraderMQL5" />
+    <SUITE FILE_PATH="coverage/TradingPlatformes$coin_flip_traders_v1_0.coverage" NAME="coin_flip_traders_v1.0 Coverage Results" MODIFIED="1588845447494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/metatraderExecutor" />
+    <SUITE FILE_PATH="coverage/TradingPlatformes$dataGetter.coverage" NAME="dataGetter Coverage Results" MODIFIED="1602406731478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newBotAnalystForTrading" />
+    <SUITE FILE_PATH="coverage/TradingPlatformes$socketservertest.coverage" NAME="socketservertest Coverage Results" MODIFIED="1585991528329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/server" />
+    <SUITE FILE_PATH="coverage/TradingPlatformes$DWX_ZeroMQ_Connector_v2_0_1_RC8.coverage" NAME="DWX_ZeroMQ_Connector_v2_0_1_RC8 Coverage Results" MODIFIED="1588845485050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/metatraderExecutor" />
+    <SUITE FILE_PATH="coverage/TradingPlatformes$setup.coverage" NAME="setup Coverage Results" MODIFIED="1586106629575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BacktraderMQL5ApiMaster" />
+    <SUITE FILE_PATH="coverage/TradingPlatformes$main.coverage" NAME="main Coverage Results" MODIFIED="1588930584639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/portfolioOptimiser" />
+    <SUITE FILE_PATH="coverage/TradingPlatformes$data_generator.coverage" NAME="data_generator Coverage Results" MODIFIED="1585736007669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/portfolioOptimiser" />
+    <SUITE FILE_PATH="coverage/TradingPlatformes$teest.coverage" NAME="teest Coverage Results" MODIFIED="1593507981300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TradingPlatformes$flaskapp.coverage" NAME="flaskapp Coverage Results" MODIFIED="1589706895714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/marcketAnalyst" />
+    <SUITE FILE_PATH="coverage/TradingPlatformes$flaskapp__1_.coverage" NAME="flaskapp (1) Coverage Results" MODIFIED="1593351261240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flask" />
+    <SUITE FILE_PATH="coverage/TradingPlatformes$socketserver.coverage" NAME="socketserver Coverage Results" MODIFIED="1588672810065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RNNForecasting" />
+    <SUITE FILE_PATH="coverage/TradingPlatformes$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1586106646067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BacktraderMQL5ApiMaster" />
+    <SUITE FILE_PATH="coverage/TradingPlatformes$test__3_.coverage" NAME="test (3) Coverage Results" MODIFIED="1586107087631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Backtrader-MQL5-API-master/backtradermql5" />
+    <SUITE FILE_PATH="coverage/TradingPlatformes$lstm_prediction.coverage" NAME="lstm-prediction Coverage Results" MODIFIED="1586510249043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Program Files" />
+    <SUITE FILE_PATH="coverage/TradingPlatformes$teest__2_.coverage" NAME="teest (2) Coverage Results" MODIFIED="1593508320499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TradingPlatformes$lstm_prediction_nodropout.coverage" NAME="lstm-prediction_nodropout Coverage Results" MODIFIED="1585994675998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Program Files" />
+    <SUITE FILE_PATH="coverage/TradingPlatformes$namedpipeserver.coverage" NAME="namedpipeserver Coverage Results" MODIFIED="1588328621802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RNNForecasting" />
+  </component>
+</project>

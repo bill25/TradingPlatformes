@@ -1,0 +1,18 @@
+#conda env update -p ./env
+name: tradingenv
+dependencies:
+  - python=3.7.*
+  - pip
+  - pip:
+    - MetaTrader5
+    - pytz
+    - XlsxWriter
+    - numpy
+    - cython
+    - matplotlib
+    - scipy
+    - pandas
+    - pystan
+    - fbprophet
+
+
